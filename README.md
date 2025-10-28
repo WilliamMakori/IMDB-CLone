@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+IMDb Clone
+This project is a fully responsive movie database web application built using Next.js 14, Tailwind CSS, and the TMDb API. It replicates the core features of IMDb — including browsing popular, top-rated, and upcoming movies — and supports dark mode, dynamic routing, and server-side data fetching for optimal performance.
+
+Through this project, I learned:
+	•	How to use Next.js app routing and server-side rendering to optimize page load times.
+	•	How to design adaptive, clean interfaces with Tailwind CSS utility classes.
+	•	How to integrate external data sources by fetching from the TMDb API.
+	•	The deployment process using Vercel, version control via GitHub, and the importance of component reusability in React-based frameworks.
+
+This project solidified my understanding of frontend architecture, API-driven development, and modern full-stack workflows.
